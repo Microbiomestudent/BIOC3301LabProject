@@ -11,5 +11,6 @@ Raw sequence processing
 Statistical analysis
 1. Summarise taxa tables (summarise_taxa)
 2. Analysis of statistical significance sample groupings - (compare_categories) 
-  - kk
+  - This was carried out for pH, nitrogen, phosphorus and potassium across samples. 
 3. Comparison of OTU frequencies across sample groups - (group_significance) 
+  - This was carried out for pH, nitrogen, phosphsorus and potassium across identified phyla. 
